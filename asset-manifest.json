@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.438d202b.css",
+    "main.js": "/static/js/main.f5cf1ed1.js",
+    "static/media/weather.png": "/static/media/weather.7dad5ec892754e5fb160.png",
+    "static/media/todo.png": "/static/media/todo.5d5923f23850e230ec60.png",
+    "static/media/gesturewar.png": "/static/media/gesturewar.e4f25e953758393ba093.png",
+    "static/media/tipcalculator.png": "/static/media/tipcalculator.ebfdded0779de1e42245.png",
+    "static/media/main-image.png": "/static/media/main-image.0a00230f0fdfc4a90183.png",
+    "static/media/portfolio-image.png": "/static/media/portfolio-image.2966c16c4772b41dcd15.png",
+    "index.html": "/index.html",
+    "static/media/icon-moon.svg": "/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
+    "main.438d202b.css.map": "/static/css/main.438d202b.css.map",
+    "main.f5cf1ed1.js.map": "/static/js/main.f5cf1ed1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.438d202b.css",
+    "static/js/main.f5cf1ed1.js"
+  ]
+}
